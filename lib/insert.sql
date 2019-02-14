@@ -8,4 +8,11 @@ INSERT INTO books (title, year, series_id) VALUES ("The Sorcerer's Stone", 1997,
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Goblet of Fire", 2000, 2);
 
-INSERT INTO characters ()
+INSERT INTO characters (name, species, motto, series_id, author_id)
+INSERT INTO characters (name, species, motto, series_id, author_id)
+INSERT INTO characters (name, species, motto, series_id, author_id)
+INSERT INTO characters (name, species, motto, series_id, author_id)
+INSERT INTO characters (name, species, motto, series_id, author_id)
+INSERT INTO characters (name, species, motto, series_id, author_id)
+INSERT INTO characters (name, species, motto, series_id, author_id)
+INSERT INTO characters (name, species, motto, series_id, author_id)
