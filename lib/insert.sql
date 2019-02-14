@@ -1,1 +1,1 @@
-INSERT INTO table 
+INSERT INTO series
