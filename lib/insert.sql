@@ -17,4 +17,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sar
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Uruk-hai", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Shelob", "She likes to feed", "Giant Spider", 1, 1);
 
-INSERT INTO subgenres
+INSERT INTO subgenres (name) VALUE 
+INSERT INTO subgenres (name) VALUE
