@@ -7,3 +7,5 @@ INSERT INTO books (title, year, series_id) VALUES ("The Return of the King", 195
 INSERT INTO books (title, year, series_id) VALUES ("The Sorcerer's Stone", 1997, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Goblet of Fire", 2000, 2);
+
+INSERT INTO characters ()
